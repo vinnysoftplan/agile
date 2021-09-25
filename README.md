@@ -11,3 +11,4 @@
 * [Discovery](https://ler.amazon.com.br/?asin=B07C5R9PLV&language=pt-BR)
 * [Formulation](https://ler.amazon.com.br/?asin=B093NCN3FZ&language=pt-BR)
 * [Desenvolvimento Orientado a Componentes com UML](https://ler.amazon.com.br/?asin=B07DYDSMCZ&language=pt-BR)
+* <https://www.codingthearchitecture.com>
